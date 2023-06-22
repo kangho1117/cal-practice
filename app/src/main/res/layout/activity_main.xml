@@ -35,7 +35,7 @@
             android:layout_marginLeft="10dp"
             android:layout_weight="1"
             android:onClick="btnAddClicked"
-            android:text="더하기~~~" />
+            android:text="더하기" />
 
         <Button
             android:layout_width="0dp"
